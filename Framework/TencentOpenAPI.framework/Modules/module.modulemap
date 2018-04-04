@@ -1,0 +1,5 @@
+framework module TencentOpenAPI {
+  umbrella header "Tencent.h"
+  export *
+  module * { export * }
+}
