@@ -1,5 +1,5 @@
 PODS:
-  - TencentOpenAPI-Swift (3.3.1)
+  - TencentOpenAPI-Swift (3.3.3)
 
 DEPENDENCIES:
   - TencentOpenAPI-Swift (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TencentOpenAPI-Swift: dafe08229b46f4473e822d1a6380708ea31518d2
+  TencentOpenAPI-Swift: c0d574f2165d896725f8fa4826df087fa00894b3
 
 PODFILE CHECKSUM: a07bc5eebbbf1ea6a21631df19f27d3d86ced35d
 

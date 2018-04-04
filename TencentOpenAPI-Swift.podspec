@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TencentOpenAPI-Swift'
-  s.version          = '3.3.2'
+  s.version          = '3.3.3'
   s.summary          = 'TencentOpenAPI Swift version, based on V3.3.1'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-Based on TencentOpenAPI version V3.3.1
+ TencentOpenAPI Swift version, Based on TencentOpenAPI version V3.3.1
                        DESC
 
   s.homepage         = 'http://wiki.open.qq.com/'
