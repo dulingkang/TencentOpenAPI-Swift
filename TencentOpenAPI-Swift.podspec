@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TencentOpenAPI-Swift'
-  s.version          = '3.3.1'
-  s.summary          = 'A short description of TencentOpenAPI-Swift.'
+  s.version          = '3.3.2'
+  s.summary          = 'TencentOpenAPI Swift version, based on V3.3.1'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,13 +18,13 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Based on TencentOpenAPI version V3.3.1
                        DESC
 
-  s.homepage         = 'https://github.com/dulingkang/TencentOpenAPI-Swift'
+  s.homepage         = 'http://wiki.open.qq.com/'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'dulingkang@163.com' => 'dulingkang@163.com' }
+  s.author           = { 'TencentOpenAPI' => 'TencentOpenAPI' }
   s.source           = { :git => 'https://github.com/dulingkang/TencentOpenAPI-Swift.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
